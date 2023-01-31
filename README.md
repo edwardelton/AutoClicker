@@ -1,4 +1,4 @@
-<h1 align="center">CS:GO Skin Changer</h1>
+<h1 align="center">Auto Clicker | Become a god</h1>
 
 <p align='center'>
     <b>💀 Auto Clicker written in C. 💀</b>
